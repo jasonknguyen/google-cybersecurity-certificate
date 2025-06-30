@@ -1,7 +1,9 @@
 # Foundations of Cybersecurity
 
 **Provider**: _Google via Coursera_
+
 **Date Completed**: June 29th 2025
+
 **Certificate**: [Course_1_Cert.pdf](https://github.com/user-attachments/files/20971949/Course_1_Cert.pdf)
 
 ## Key Topics Covered:
