@@ -4,7 +4,7 @@
 
 **Date Completed**: June 29th 2025
 
-**Certificate**: [Course_1_Cert.pdf](https://github.com/user-attachments/files/20971949/Course_1_Cert.pdf)
+**Certificate**: ![Course_1_Cert.pdf](https://github.com/user-attachments/files/20971949/Course_1_Cert.pdf)
 
 ## Key Topics Covered:
 - Core Security Concepts (CIA Triad, Types of Malware, Phising, etc.)
