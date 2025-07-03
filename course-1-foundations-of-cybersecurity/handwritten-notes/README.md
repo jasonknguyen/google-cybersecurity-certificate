@@ -1,1 +1,1 @@
-These are handwritten notes that I took during the first course from my Google Cybersecurity Certificate. This course included topics such as CIA Triad, threat actors, security frameworks, security ethics, malware, CISSP domains, attack types, 
+These are handwritten notes that I took during the first course from my Google Cybersecurity Certificate. This course included topics such as CIA Triad, threat actors, security frameworks, security ethics, malware, CISSP domains, attack types, etc.
